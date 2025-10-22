@@ -1,6 +1,6 @@
 # Newfeature 0.9.1
 
-Example feature for Datenstrom Yellow.
+Small example feature for Datenstrom Yellow.
 
 <p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
 
