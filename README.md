@@ -1,4 +1,4 @@
-# Newfeature 0.9.1
+# Examplefeature 0.9.1
 
 Example feature for Datenstrom Yellow.
 
@@ -6,15 +6,15 @@ Example feature for Datenstrom Yellow.
 
 ## How to install an extension
 
-[Download ZIP file](https://github.com/datenstrom/yellow-newfeature/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+[Download ZIP file](https://github.com/datenstrom/yellow-examplefeature/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-## How to make a new feature
+## How to make a feature
 
 Create a new repository on GitHub or Codeberg, for example click on `Use this template` in the top-right corner. Edit the README file in your repository and replace the download link with the download link of your repository. [Learn more about making extensions](https://github.com/annaesvensson/yellow-publish).
 
 ## How to make animated text
 
-Create a `[newfeature]` shortcut with an optional text. 
+Create a `[examplefeature]` shortcut with an optional text. 
 
 ## Examples
 
@@ -25,9 +25,9 @@ Content file with animated text:
     ---
     This is an example page with animated text.
 
-    [newfeature - Hello World]
-    [newfeature - printf("Hello World\n");]
-    [newfeature - alert("Hello World");]  
+    [examplefeature - Hello World]
+    [examplefeature - printf("Hello World\n");]
+    [examplefeature - alert("Hello World");]  
 
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod 
     tempor incididunt ut labore et dolore magna pizza. Ut enim ad minim veniam, 
@@ -35,17 +35,17 @@ Content file with animated text:
 
 Making animated text, different text:
 
-    [newfeature - We <3 people who code.]
-    [newfeature - This is an example text.]
-    [newfeature - This is an especially long example text.]  
+    [examplefeature - We <3 people who code.]
+    [examplefeature - This is an example text.]
+    [examplefeature - This is an especially long example text.]  
 
 Making animated text, inside a list:
 
     Datenstrom Yellow is for people who make small websites.
     
-    * [newfeature - Fun to use]
-    * [newfeature - Installed in a few minutes]
-    * [newfeature - Just files and folders]
+    * [examplefeature - Fun to use]
+    * [examplefeature - Installed in a few minutes]
+    * [examplefeature - Just files and folders]
 
 ## Developer
 
