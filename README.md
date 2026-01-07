@@ -1,4 +1,4 @@
-# Examplefeature 0.9.1
+# Example 0.9.1
 
 Example feature for Datenstrom Yellow.
 
@@ -6,11 +6,7 @@ Example feature for Datenstrom Yellow.
 
 ## How to install an extension
 
-[Download ZIP file](https://github.com/datenstrom/yellow-examplefeature/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
-
-## How to make a feature
-
-Create a new repository on GitHub or Codeberg, for example click on `Use this template` in the top-right corner. Edit the README file in your repository and replace the download link with the download link of your repository. [Learn more about making extensions](https://github.com/annaesvensson/yellow-publish).
+[Download ZIP file](https://github.com/annaesvensson/yellow-example/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## How to make animated text
 
