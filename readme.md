@@ -1,4 +1,4 @@
-# Example 0.9.1
+# Example 0.9.2
 
 Example feature for Datenstrom Yellow. Developed by Anna Svensson.
 
@@ -8,39 +8,35 @@ Example feature for Datenstrom Yellow. Developed by Anna Svensson.
 
 [Download ZIP file](https://github.com/annaesvensson/yellow-example/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-## How to make animated text
+## How to format text with a custom shortcut
 
-Create a `[examplefeature]` shortcut with an optional text. 
+Create a `[example]` shortcut with an optional text. 
 
 ## Examples
 
-Content file with animated text:
+Content file with custom shortcut:
 
     ---
     Title: Example page
     ---
-    This is an example page with animated text.
+    This is an example page with a custom shortcut.
 
-    [examplefeature - Hello World]
-    [examplefeature - printf("Hello World\n");]
-    [examplefeature - alert("Hello World");]  
+    [example Hello World]
+    [example printf("Hello World\n");]
+    [example alert("Hello World");]  
 
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod 
     tempor incididunt ut labore et dolore magna pizza. Ut enim ad minim veniam, 
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
 
-Making animated text, different text:
+Formatting text with a custom shortcut:
 
-    [examplefeature - We <3 people who code.]
-    [examplefeature - This is an example text.]
-    [examplefeature - This is an especially long example text.]  
+    [example We <3 people who code.]
+    [example This is an example text.]
+    [example This is an especially long example text.]  
 
-Making animated text, inside a list:
+## Acknowledgements
 
-    Datenstrom Yellow is for people who make small websites.
-    
-    * [examplefeature - Fun to use]
-    * [examplefeature - Installed in a few minutes]
-    * [examplefeature - Just files and folders]
+This extension includes feedback by Giovanni Salmeri and Steffen Schultz. Thank you for your help.
 
 Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
