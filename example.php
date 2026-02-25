@@ -13,9 +13,9 @@ class YellowExample {
     // Handle page content element
     public function onParseContentElement($page, $name, $text, $attributes, $type) {
         $output = null;
-        if ($name=="example" && ($type=="block" || $type=="inline")) {
+        if ($name=="example" && $type=="inline") {
             if (is_string_empty($text)) $text = "Hello World";
-            $output = "<div class=\"example\">".htmlspecialchars($text)."</div>";
+            $output = "<span class=\"example\">".htmlspecialchars($text)."</span>";
         }
         return $output;
     }

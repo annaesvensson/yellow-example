@@ -21,8 +21,8 @@ Content file with custom shortcut:
     ---
     This is an example page with a custom shortcut.
 
-    [example Hello World]
-    [example printf("Hello World\n");]
+    [example Hello World]  
+    [example printf("Hello World\n");]  
     [example alert("Hello World");]  
 
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod 
