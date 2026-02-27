@@ -37,6 +37,6 @@ Formatting text with a custom shortcut:
 
 ## Acknowledgements
 
-This extension includes feedback by Giovanni Salmeri and Steffen Schultz. Thank you for your help.
+This extension includes feedback by Giovanni Salmeri, Steffen Schultz and Mark Seuffert. Thank you for your help.
 
 Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
