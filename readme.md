@@ -1,4 +1,4 @@
-# Example 0.9.2
+# Example 1.0.2
 
 Example feature for Datenstrom Yellow. Developed by Anna Svensson.
 
